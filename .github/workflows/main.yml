@@ -29,3 +29,6 @@ jobs:
 
       - name: Check tree installation
         run: which tree
+
+      - name: Check act installation
+        run: which act
