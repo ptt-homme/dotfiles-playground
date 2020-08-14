@@ -21,5 +21,4 @@
 
 - shell:
   - [yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)", Install Homebrew]
-  - [brew tap Homebrew/bundle, Install brew bundle command]
-  - [brew bundle, Install brew bundles]
+
