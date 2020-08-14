@@ -27,5 +27,3 @@ jobs:
       - name: Check Homebrew installation
         run: which brew
 
-      - name: Check tree installation
-        run: which tree
