@@ -1,5 +1,8 @@
 - clean: ['~']
 
+- shell:
+  - [curl -sL https://git.io/_has > /usr/local/bin/has && chmod +x /usr/local/bin/has, Install has]
+
 - link:
     ~/.zshrc:
       force: true
