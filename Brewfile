@@ -1,4 +1,6 @@
-tap "nektos/tap"
-
 brew 'tree'
-brew "nektos/tap/act"
+brew 'composer'
+brew 'kdabir/tap/has'
+brew 'nektos/tap/act'
+brew 'php'
+brew 'tree'

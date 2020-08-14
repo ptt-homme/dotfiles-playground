@@ -1,8 +1,5 @@
 - clean: ['~']
 
-- shell:
-  - [ls -la /usr/local/bin, Install has]
-
 - link:
     ~/.zshrc:
       force: true

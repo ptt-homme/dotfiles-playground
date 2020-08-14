@@ -32,3 +32,9 @@ jobs:
 
       - name: Check act installation
         run: which act
+
+      - name: Check php installation
+        run: has php
+
+      - name: Check composer installation
+        run: which composer
