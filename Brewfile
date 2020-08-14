@@ -1,6 +1,6 @@
 brew 'tree'
 brew 'composer'
 brew 'kdabir/tap/has'
-#brew 'nektos/tap/act'
+brew 'nektos/tap/act'
 brew 'php'
 brew 'tree'
