@@ -33,5 +33,5 @@ jobs:
 #      - name: Check php installation
 #        run: has php
 
-#      - name: Check composer installation
-#        run: which composer
+      - name: Check composer installation
+        run: which composer
