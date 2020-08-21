@@ -5,6 +5,7 @@ brew 'composer'
 
 
 #
+# brew "archey"
 brew "broot"
 brew 'diff-so-fancy'
 brew 'git-flow-avh'
@@ -16,3 +17,4 @@ brew 'nektos/tap/act'
 brew 'tree'
 
 cask 'firefox'
+cask 'appcleaner'
