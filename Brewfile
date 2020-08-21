@@ -7,10 +7,10 @@ brew 'composer'
 #
 brew "archey"
 brew "broot"
-#brew 'diff-so-fancy'
-#brew 'git-flow-avh'
-brew 'git-quick-stats'
-brew 'htop'
+brew 'diff-so-fancy'
+brew 'git-flow-avh'
+#brew 'git-quick-stats'
+#brew 'htop'
 
 brew 'kdabir/tap/has'
 brew 'nektos/tap/act'
