@@ -18,5 +18,3 @@ brew 'kdabir/tap/has'
 brew 'nektos/tap/act'
 brew 'tree'
 
-#
-cask 'firefox'
