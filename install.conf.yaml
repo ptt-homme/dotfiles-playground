@@ -24,6 +24,6 @@
 
 - shell:
   - [has has curl, Check if has works]
-  #- [yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)", Install Homebrew]
+  - [yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)", Install Homebrew]
   - [brew bundle, Install brew bundles]
   - [has brew composer, Check if has works]
